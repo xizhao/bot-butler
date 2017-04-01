@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsymphonyoss%2Fbot-butler.svg?size=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsymphonyoss%2Fbot-butler?ref=badge_large)
+
 [![Symphony Software Foundation - Active](https://cdn.rawgit.com/symphonyoss/contrib-toolbox/master/images/ssf-badge-incubating.svg)](https://symphonyoss.atlassian.net/wiki/display/FM/Incubating) [![Build Status](https://travis-ci.org/symphonyoss/bot-butler.svg)](https://travis-ci.org/symphonyoss/bot-butler) [![Dependencies](https://www.versioneye.com/user/projects/58ac50944ca76f0047de1847/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58ac50944ca76f0047de1847?child=summary)
 
 # Bot Butler
